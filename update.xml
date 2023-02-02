@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
     <app appid='oncjaickejncbelpehjofdmhfjegpkdg'>
-        <updatecheck codebase='https://git.asprivacy.com/alexandra/extension-updater/raw/branch/main/crx/Brid-Brave-Linux-4.4.2.crx' version='4.4.2' />
+        <updatecheck codebase='https://github.com/BirdInFire/extension-updater/raw/main/crx/Brid-Brave-Linux-4.4.2.crx' version='4.4.2' />
     </app>
     <app appid='jobdiclhflnhdiclffgkehnnjbkcebag'>
-        <updatecheck codebase='https://git.asprivacy.com/alexandra/extension-updater/raw/branch/main/crx/vaultwarden-client-2023-1-0.crx' version='2023.1.0' />
+        <updatecheck codebase='https://github.com/BirdInFire/extension-updater/raw/main/crx/vaultwarden-client-2023-1-0.crx' version='2023.1.0' />
     </app>
 </gupdate>
