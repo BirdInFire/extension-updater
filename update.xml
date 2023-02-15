@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
     <app appid='oncjaickejncbelpehjofdmhfjegpkdg'>
-        <updatecheck codebase='https://github.com/BirdInFire/extension-updater/raw/main/crx/Brid-Brave-Linux-4.4.7.crx' version='4.4.7' />
+        <updatecheck codebase='https://github.com/BirdInFire/extension-updater/raw/main/crx/Brid-Brave-Linux-4.4.8.crx' version='4.4.8' />
     </app>
     <app appid='jobdiclhflnhdiclffgkehnnjbkcebag'>
         <updatecheck codebase='https://github.com/BirdInFire/extension-updater/raw/main/crx/vaultwarden-client-2023-2-0.crx' version='2023.2.0' />
